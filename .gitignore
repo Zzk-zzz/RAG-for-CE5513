@@ -1,0 +1,61 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pkl
+*.log
+
+# venv
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# ---------- Big media ----------
+*.mp4
+*.wav
+*.m4a
+*.mov
+
+# ---------- Outputs / caches ----------
+outputs/
+**/_audio_cache/
+**/*.jsonl
+
+# ---------- Tools / bundles ----------
+poppler-*/
+pdf2latex_test/
+rag_test/
+
+# ---------- Model caches ----------
+AIcache/
+**/whisper_models/
+**/hf/
+**/sentence/
+**/torch/
+
+# ---------- pdf2latex_formal: keep scripts, ignore large data ----------
+pdf2latex_formal/images/
+pdf2latex_formal/temp_pages/
+pdf2latex_formal/slide_images/
+
+# 如果你 pdf2latex_formal 里还有别的“大文件目录”，也可以继续往下加：
+# pdf2latex_formal/download_mathpix/
+# pdf2latex_formal/**/*.pdf
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+
+# ignore bundled ffmpeg
+MaViLS/tools/ffmpeg/
+
+# big stuff (do not commit)
+outputs/
+*.mp4
+_audio_cache/
+**/_audio_cache/

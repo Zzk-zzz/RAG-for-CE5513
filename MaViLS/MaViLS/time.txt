@@ -1,0 +1,63 @@
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for audio algorithm: 0:00:41.955330
+Time for image algorithm: 0:00:44.169408
+Time for ocr algorithm: 0:00:41.966135
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+Time for alignment algorithms.
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:03:17.752298
+Time for image algorithm: 0:04:43.479475
+Time for ocr algorithm: 0:17:23.469387
+== Total time ==: 0:17:30.472564
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:04:41.488698
+Time for image algorithm: 0:07:47.246777
+Time for ocr algorithm: 0:25:47.362441
+== Total time ==: 0:25:58.158291
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:03:46.955518
+Time for image algorithm: 0:05:30.522974
+Time for ocr algorithm: 0:20:18.509603
+== Total time ==: 0:20:20.673369
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:36:22.550828
+Time for image algorithm: 0:57:48.912075
+Time for ocr algorithm: 1:22:03.862045
+== Total time ==: 1:22:14.237815
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:36:01.641080
+Time for image algorithm: 0:56:20.186006
+Time for ocr algorithm: 1:20:40.468753
+== Total time ==: 1:20:50.690490
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:06:31.053401
+Time for image algorithm: 0:11:01.190811
+Time for ocr algorithm: 0:35:39.108170
+== Total time ==: 0:35:49.493927
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:05:05.754100
+Time for image algorithm: 0:08:43.139755
+Time for ocr algorithm: 0:28:24.056310
+== Total time ==: 0:28:42.717289
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:06:56.700095
+Time for image algorithm: 0:12:15.911554
+Time for ocr algorithm: 0:37:45.483038
+== Total time ==: 0:38:19.127704
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:03:55.157546
+Time for image algorithm: 0:05:40.864398
+Time for ocr algorithm: 0:18:39.928425
+== Total time ==: 0:18:53.186637
+== Time for alignment algorithms ==
+Time for audio algorithm: 0:04:11.494875
+Time for image algorithm: 0:06:02.375364
+Time for ocr algorithm: 0:20:15.009670
+== Total time ==: 0:20:35.472658

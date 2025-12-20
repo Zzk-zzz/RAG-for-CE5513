@@ -1,0 +1,26 @@
+# pipeline
+opencv-python
+pillow
+ImageHash
+PyWavelets
+faster-whisper
+ctranslate2
+numpy
+tqdm
+
+# retrieval
+faiss-cpu
+sentence-transformers
+scikit-learn
+scipy
+joblib
+transformers
+torch
+safetensors
+tokenizers
+huggingface-hub
+
+# Gemini
+google-genai
+httpx
+anyio
